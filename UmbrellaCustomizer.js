@@ -74,7 +74,7 @@ const changeColorOnCheck = (color) => {
 
 uploadButton.addEventListener("change", () => {
   hasLogo = true;
-// UpLoader
+// UpLoadernkfjnrgkjefngkernkgjberigbreibgeiuberbiber
   showLoading(() => {
     const fileReader = new FileReader();
     fileReader.readAsDataURL(inputUploadLogo.files[0]);
